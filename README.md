@@ -1,1 +1,1 @@
-# StaffCertificate_expiry
+# StaffCertificate_expiry This is an example of a spreadsheet I developed for a clinical department of over 100 employees with 10 metrics.  The due dates of certifications are compared automatically with todays date, highlighting red for due within 30 days, yellow for 31-60 and green for 60+ days.  If the certification is due that same day or it is late, the name box is highlighted in red.  It contains a search box and a filter by color.
